@@ -1,0 +1,25 @@
+Alert
+
+crea una alerta de facturación
+
+Proceso de configuracion:
+
+    click en el nombre de usuario
+    click en opcion: Billing Dashboard
+    Budgets
+    Create a Budgets
+    Nos mostrara los Budget Types, dejar amarcada la opcion por defecto Cost budget -Recommended y click en el boton superior: 
+    Enable cost Explorer para habilitar el seguimiento de gastos
+    En la pagina de budget types, dar click en next
+    nos mostrara la pagina Set Your Budget
+    seleccionar cada cuando se realizara el budget, daily, monthly, etc
+    seleccionar desde cuando se quire empezar a hacer el monitoreo en Start Date
+    seleccionar en Choose how budget. Fixed significa que va monitorear si nos gastamos mas o igual de la cantidad indicada en el campo 
+    Enter your budgeted amount($)
+    click en Next
+    Click en el boton: Add an alert threshold
+    En la seccion Alert #1, configuraremos como se debe ejecutar la alerta
+    Indicamos si la alerta se hara por el valor absoluto o algun porcentaje
+    en Email recipients indicar el correo electronico al que llegara la alerta
+    click en: Add alert threshold
+    click en: Create budget
